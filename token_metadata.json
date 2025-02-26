@@ -1,1 +1,20 @@
-{ "name": " LeBron James ", "symbol": "LBJ", "description": "LBJ meme coin", "image": " https://a.espncdn.com/i/headshots/nba/players/full/1966.png ", "attributes": [ { "trait_type": "Meme Level", "value": "Over 9000" }, { "trait_type": "Community", "value": "Fun & Games" } ], "properties": { "category": "image", "files": [ { "uri": " https://a.espncdn.com/i/headshots/nba/players/full/1966.png ", "type": "image/png" } ] } }
+{
+    "name": "LeBron James",
+    "symbol": "LBJ",
+    "description": "LBJ meme coin",
+    "image": "0.png",
+    "attributes": [
+      { "trait_type": "Meme Level", "value": "Over 9000" },
+      { "trait_type": "Community", "value": "Fun & Games" }
+    ],
+    "properties": {
+      "category": "image",
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }
+  
